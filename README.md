@@ -1,1 +1,0 @@
-Data Backup Study & Simple Guide Development — B.Sc. Computer Science Semester III Field Project, University of Mumbai (2026–2027). Features an interactive 3-2-1 strategy visualizer, disaster simulator, 12-item backup checklist, survey analytics dashboard, and full 10-chapter research report.
